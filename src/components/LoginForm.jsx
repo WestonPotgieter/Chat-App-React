@@ -20,7 +20,7 @@ const LoginForm = () => {
 
             
         } catch (error) {
-            setError('Incorrect Usernmae/Password')
+            setError('Incorrect Username/Password')
             
         }
     }
